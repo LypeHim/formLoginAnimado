@@ -18,3 +18,5 @@ O projeto consiste em mostrar um validador javascript bem simples e um foco maio
 <p>O trecho a seguir pode aparecer repetido caso você visualize e leia as informações sobre mais que um repositório.</p>
 <strong>Atualizações de código:</strong>
 <p>Pretendo adicionar (aos poucos), à estes códigos, as configurações que permitem a acessibilidade e a compatibilidade entre navegadores e versões de navegadores (crossbrowser). Isso será feito com mais calma tendo em vista que meu objetivo inicial é disponibilizar o básico dos sites (site pronto). </p>
+<strong>Ambiente de visualização<strong>
+<p>Caso tenha interesse em ver o site pronto e hospedado, acesse: environment > View deployment</p>
