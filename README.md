@@ -1,5 +1,5 @@
 <h1>Formulário para Login</h1>
-<p>O projeto consiste em mostrar um validador javascript bem simples e um foco maior no estilo css.</p>
+<p>O projeto consiste em mostrar um validador javascript bem simples e um foco maior no estilo css. Vale ressaltar que o foco deste repositório não é mostrar responsividade, logo as configurações dele podem não ficar adequadas caso você acesse por um dispositivo menor que 900px de largura.</p>
 
 <strong>Javascript:</strong>
 
