@@ -12,7 +12,7 @@ body{
 	background-size:cover;	-webkit-background-size:cover; -moz-background-size:cover; -o-background-size:cover;
 	display:grid;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	grid-template-columns:'1fr';
+	grid-template-columns:1fr;
 	grid-template-rows:auto;
 	height:100vh;
 	margin:0;
