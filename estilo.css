@@ -11,7 +11,7 @@ body{
 	url(playing-games-on-playstation-4-picjumbo-com.jpg);
 	background-size:cover;	-webkit-background-size:cover; -moz-background-size:cover; -o-background-size:cover;
 	display:grid;
-	font:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	grid-template-columns:'1fr';
 	grid-template-rows:auto;
 	height:100vh;
