@@ -29,4 +29,5 @@
 <p>Pretendo adicionar (aos poucos), à estes códigos, as configurações que permitam a acessibilidade. Isso será feito com mais calma tendo em vista que meu objetivo inicial é disponibilizar o básico dos sites (site pronto).</p>
 
 <strong>Ambiente de visualização</strong>
-<p>Caso tenha interesse em ver o site pronto e hospedado, acesse: environment > View deployment, ou clique no link junto a descrição do projeto</p>
+<p>Caso tenha interesse em ver o site pronto e hospedado, acesse o link junto a descrição do projeto</p>
+
